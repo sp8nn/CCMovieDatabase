@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CCMovieDatabase.Migrations
 {
     [DbContext(typeof(MovieContext))]
-    [Migration("20251208082350_AddNoahMovies")]
+    [Migration("20251210225020_AddNoahMovies")]
     partial class AddNoahMovies
     {
         /// <inheritdoc />
